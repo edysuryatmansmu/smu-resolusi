@@ -1,3 +1,5 @@
+SMU RESOLUSI
+A. Rencana Membangun Aplikasi Starup 
 Membangun startup Peer-to-Peer (P2P) Rental Marketplace memerlukan perencanaan matang karena melibatkan kepercayaan antar 
 pengguna (trust) dan keamanan barang.
 Berikut adalah langkah-langkah strategis dari persiapan hingga aplikasi online:
@@ -34,3 +36,8 @@ Berikut adalah langkah-langkah strategis dari persiapan hingga aplikasi online:
    •	Detail fitur teknis (seperti sistem denda atau otomatisasi asuransi)
    •	Strategi mencari pengguna pertama (tanpa bakar uang yang besar)
    •	Estimasi biaya pengembangan aplikasi untuk tahap awal
+
+
+B. Mulai membangun Aplikasi Full Stack 
+C. Membuat aplikasi menggunakan Tech Stack Next.js, Tailwind CSS dan Database Supabase
+D. Menggunakan Aplikasi AI sebagai tool untuk membantu pengembangan Aplikasi
